@@ -8,9 +8,6 @@
 - <https://blog.naver.com/zetmond/223024102881>
 - <https://blog.naver.com/zetmond/223025186119>
 - <https://blog.naver.com/zetmond/223031416970>
+- <https://blog.naver.com/zetmond/223058293077>
 
-- - -
-# 실전 C++
-: C++ 의 핵심 클래스(+구조체)와 심화된 개념을 공부
-- <https://blog.naver.com/zetmond/223041073413>
-- <https://blog.naver.com/zetmond/223051512884>
+
