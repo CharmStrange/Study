@@ -15,6 +15,8 @@
 # C++
 - <https://blog.naver.com/zetmond/223041073413>
 - <https://blog.naver.com/zetmond/223051512884>
+- <https://blog.naver.com/zetmond/223061249957>
+- <https://blog.naver.com/zetmond/223065019006>
 - - -
 ### Dijkstra Algorithm 
 - <https://blog.naver.com/zetmond/223029426051>
