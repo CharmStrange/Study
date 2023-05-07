@@ -1,15 +1,24 @@
-직접 작성한 코드들만 파일로 올립니다.
-
-# 실전 C 시리즈 
-: 실제 공부하고 작성한 코드들 위주
+- - - 
+# C
+- <https://blog.naver.com/zetmond/222991201954>
+- <https://blog.naver.com/zetmond/222992329056>
+- <https://blog.naver.com/zetmond/222995336052>
+- <https://blog.naver.com/zetmond/222999383529>
+- <https://blog.naver.com/zetmond/223001752881>
+- <https://blog.naver.com/zetmond/223006745839>
+- <https://blog.naver.com/zetmond/223017835710>
+- <https://blog.naver.com/zetmond/223024640901>
+- <https://blog.naver.com/zetmond/223025804471>
+- <https://blog.naver.com/zetmond/223032991785>
+- <https://blog.naver.com/zetmond/223033966636>
 - - -
-- <https://blog.naver.com/zetmond/223017654343>
-- <https://blog.naver.com/zetmond/223024008683>
-- <https://blog.naver.com/zetmond/223024102881>
-- <https://blog.naver.com/zetmond/223025186119>
-- <https://blog.naver.com/zetmond/223031416970>
-- <https://blog.naver.com/zetmond/223058293077>
-- <https://blog.naver.com/zetmond/223060321341>
-- <https://blog.naver.com/zetmond/223062170652>
-- <https://blog.naver.com/zetmond/223067929203>
-- <https://blog.naver.com/zetmond/223070734710>
+# C++
+- <https://blog.naver.com/zetmond/223041073413>
+- <https://blog.naver.com/zetmond/223051512884>
+- <https://blog.naver.com/zetmond/223061249957>
+- <https://blog.naver.com/zetmond/223065019006>
+- <https://blog.naver.com/zetmond/223068777355>
+- <https://blog.naver.com/zetmond/223071720750>
+- <https://blog.naver.com/zetmond/223074989346>
+- <https://blog.naver.com/zetmond/223078725765>
+- - -
