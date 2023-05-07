@@ -31,10 +31,9 @@
 - <https://blog.naver.com/zetmond/223067194390>
 - <https://blog.naver.com/zetmond/223073746795>
 - - -
-### Dijkstra Algorithm 
-- <https://blog.naver.com/zetmond/223029426051>
-### Vigenère 암호 
-- <https://blog.naver.com/zetmond/223038009846>
-### DES
-- <https://blog.naver.com/zetmond/223043607872>
+### 알고리즘 
+* Dijkstra Algorithm - <https://blog.naver.com/zetmond/223029426051>
 - - -
+### 기타
+* Vigenère 암호 - <https://blog.naver.com/zetmond/223038009846>
+* DES - <https://blog.naver.com/zetmond/223043607872>
