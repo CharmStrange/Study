@@ -24,5 +24,13 @@
 - - -
 # R
 - <https://blog.naver.com/zetmond/222848556257>
+- <https://blog.naver.com/zetmond/222849630988>
+- <https://blog.naver.com/zetmond/222855064820>
+- <https://blog.naver.com/zetmond/222859434988>
+- <https://blog.naver.com/zetmond/222859620136>
+- <https://blog.naver.com/zetmond/223075711207>
 ...
 - - -
+# Lua
+- <https://blog.naver.com/zetmond/223044660580>
+- <https://blog.naver.com/zetmond/223067046329>
