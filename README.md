@@ -11,6 +11,7 @@
 # 알고리즘 
 * Dijkstra Algorithm - <https://blog.naver.com/zetmond/223029426051>
 * 복잡도, 성능 분석 - <https://blog.naver.com/zetmond/223063816538>
+* 성능 분석 - <https://blog.naver.com/zetmond/223037779511>
 - - -
 # 실전 C 시리즈 
 : 실제 공부하고 작성한 코드들 위주(직접 작성한 코드들만 파일로 올립니다.)
