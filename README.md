@@ -11,7 +11,6 @@
 - <https://blog.naver.com/zetmond/223025804471>
 - <https://blog.naver.com/zetmond/223032991785>
 - <https://blog.naver.com/zetmond/223033966636>
-- <https://blog.naver.com/zetmond/223101558850>
 - - -
 # C++
 - <https://blog.naver.com/zetmond/223041073413>
