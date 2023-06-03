@@ -2,33 +2,24 @@
 using namespace std;
 
 class IOSys{
+    double input;
+    double output;
 public:
-    double process();
-    char input;
-    char output;
-
-    IOSys(); //#1
-    IOSys(double x); //#2
-
+    IOSys(double x=0.5){ //#1 default : 0.5
+    input=x;
+    output=process(input);
+    cout<< "Input:" << x << "\nOutput:" << process(x) <<endl;
+    }; //#1 default 0.5
+    ~IOSys() {}; // 소멸자
+    double process(double X) {return ((X*X)/2);}
 };
 
-IOSys::IOSys(){ //#1
-    cout<<"Input:None\nOutput:None"<<endl;
-}
-
-IOSys::IOSys(double x){ //#2
-    input=x;
-    output=process();
-    cout<<"Input:"<<"Output:"<<endl;
-}
-
-double IOSys::process(){
-    return ((input*input)/2);
-}
-
 int main(){
-    IOSys ino; //#1
-
-    IOSys inoo(6.0);//#2
-
+    IOSys ino; //#1 default : 0.5
+    IOSys inoo(6.0);// not default : 6.0
+    
+    IOSys *iosys=new IOSys(1);
+    delete iosys;
+    
+    return 0;
 }
