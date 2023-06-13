@@ -24,6 +24,9 @@
 - <https://blog.naver.com/zetmond/223101292551>
 - <https://blog.naver.com/zetmond/223104007204>
 - - -
+# Python
+- 
+- - -
 # R
 - <https://blog.naver.com/zetmond/222848556257>
 - <https://blog.naver.com/zetmond/222849630988>
