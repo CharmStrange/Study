@@ -10,24 +10,38 @@
 ---
 
 ## 1. 평균 제곱 오차(MSE)
-결과(출력, 또는 예측) 값과 실제 값(레이블)의 차이를 오차로 두고, 이들을 제곱하여 모두 더한 후 데이터의 개수로 나누어 구한다.
-```Python
-import numpy as np
-
-def MSE(n, y, Label):
-    return (1/n) * np.sum( (y-Label)**2 )
-
-# Label
-L = np.array( [1, 0, 1, 1, 0] )
-
-# Expected Output
-ye = np.array( [0.8, 0.1, 1, 0.9, 0.3] )
-
-print( MSE(5, ye, L) )
-```
-```Python
->>> 0.029999999999999995
-```
-수식에서 n이 아닌 2를 쓰기도 하는데 이는 미분했을 때 제곱의 2가 곱해지는 것을 상쇄하기 위해 존재한다.
+>결과(출력, 또는 예측) 값과 실제 값(레이블)의 차이를 오차로 두고, 이들을 제곱하여 모두 더한 후 데이터의 개수로 나누>어 구한다.
+>```Python
+>import numpy as np
+>
+>def MSE(n, y, Label):
+>    return (1/n) * np.sum( (y-Label)**2 )
+>
+># Label
+>L = np.array( [1, 0, 1, 1, 0] )
+>
+># Expected Output
+>ye = np.array( [0.8, 0.1, 1, 0.9, 0.3] )
+>
+>print( MSE(5, ye, L) )
+>```
+>```Python
+> >>> 0.029999999999999995
+>```
+>수식에서 n이 아닌 2를 쓰기도 하는데 이는 미분했을 때 제곱의 2가 곱해지는 것을 상쇄하기 위해 존재한다.
 
 ## 2. 교차 엔트로피 오차(CEE)
+>데이터의 불확실성으로 인해, 정보 이론 기반의 *엔트로피*가 이름에 붙었고, 예측된 확률 분포의 로그 값과 실제 값(레이블)을 곱하고 모두 더해 구한다.
+>```Python
+>import numpy as np
+>
+>def CEE(y, L):
+>    delta = 1e-7
+>    return -np.sum( L*np.log(y+delta) )
+>
+>print( CEE(ye, L) )
+>```
+>```Python
+> >>> 0.3285037308609439
+>```
+>
