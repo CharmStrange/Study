@@ -1,3 +1,5 @@
+사용한 [Butterfly Species 데이터셋](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification) 
+
 데이터셋 및 파일 접근을 위한 os, ImageFolder, Image 등의 모듈과, 직접적 데이터 조작을 위한 모듈, 연산을 위한 알고리즘을 가진 모듈을 import.
 메인은 PyTorch 프레임워크 사용.
 
