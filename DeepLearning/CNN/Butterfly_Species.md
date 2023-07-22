@@ -1,7 +1,7 @@
 사용한 [Butterfly Species 데이터셋](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification) 
 
-데이터셋 및 파일 접근을 위한 os, ImageFolder, Image 등의 모듈과, 직접적 데이터 조작을 위한 모듈, 연산을 위한 알고리즘을 가진 모듈을 import.
-메인은 PyTorch 프레임워크 사용.
+**데이터셋 및 파일 접근을 위한 os, ImageFolder, Image 등의 모듈과, 직접적 데이터 조작을 위한 모듈, 연산을 위한 알고리즘을 가진 모듈을 import.
+메인은 PyTorch 프레임워크 사용.**
 
 
 ```python
@@ -29,8 +29,8 @@ from sklearn.metrics import classification_report
 from PIL import Image
 ```
 
-torchvision의 transforms 메소드로 사용할 이미지 데이터에 대한 전처리 파이프라인 틀을 잡아줌.
-: transforms.Compose() 메소드는 모든 이미지 데이터가 같은 전처리 과정을 거치게 함.
+**torchvision의 transforms 메소드로 사용할 이미지 데이터에 대한 전처리 파이프라인 틀을 잡아줌.
+: transforms.Compose() 메소드는 모든 이미지 데이터가 같은 전처리 과정을 거치게 함.**
 
 
 ```python
@@ -45,7 +45,7 @@ transform=transforms.Compose([
 ])
 ```
 
-데이터셋을 불러오고 이상이 없는지 확인하는 과정. 가공된 데이터 프레임을 새로 만듦.
+**데이터셋을 불러오고 이상이 없는지 확인하는 과정. 가공된 데이터 프레임을 새로 만듦.**
 
 
 ```python
@@ -65,7 +65,7 @@ data['path']=dir0+data['filename']
 display(data)
 ```
 
-이 함수는 데이터 프레임의 이미지 파일 경로와 레이블을 묶은 튜플을 원소로 가지는 리스트를 생성.
+**이 함수는 데이터 프레임의 이미지 파일 경로와 레이블을 묶은 튜플을 원소로 가지는 리스트를 생성.**
 
 
 ```python
@@ -82,7 +82,7 @@ def create_path_label_list(df):
 #print(path_label[0:3])
 ```
 
-데이터 로더를 위한 클래스 하나를 만듦.
+**데이터 로더를 위한 클래스 하나를 만듦.**
 
 
 ```python
@@ -105,7 +105,7 @@ class CustomDataset(torch.utils.data.Dataset):
         return img, label
 ```
 
-PyTorch Lightning은 PyTorch 간편화 라이브러리인데 이것을 사용해 이미지 데이터셋 로드 후 전처리를 진행.
+**PyTorch Lightning은 PyTorch 간편화 라이브러리인데 이것을 사용해 이미지 데이터셋 로드 후 전처리를 진행.**
 
 
 ```python
@@ -158,7 +158,7 @@ class ImageDataset(pl.LightningDataModule):
         return DataLoader(self.test_dataset, batch_size=self.batch_size)
 ```
 
-데이터셋을 훈련용과 테스트용으로 분리.
+**데이터셋을 훈련용과 테스트용으로 분리.**
 
 
 ```python
@@ -190,7 +190,7 @@ class DataModule(pl.LightningDataModule):
         return self.test_dataset
 ```
 
-CNN 모델인데 PyTorch Lightning을 사용하여 간단한 구현이 가능.
+**CNN 모델인데 PyTorch Lightning을 사용하여 간단한 구현이 가능.**
 
 
 ```python
@@ -259,7 +259,7 @@ class ConvolutionalNetwork(LightningModule):
         self.log("test_acc", acc)
 ```
 
-모델을 훈련시키고 테스트. if 구문을 아래와 같이 작성하면 해당 스크립트가 포함된 파일을 외부에서 import 해도 if 구문 내 스크립트는 실행되지 않음.
+**모델을 훈련시키고 테스트. if 구문을 아래와 같이 작성하면 해당 스크립트가 포함된 파일을 외부에서 import 해도 if 구문 내 스크립트는 실행되지 않음.**
 
 
 ```python
@@ -288,7 +288,7 @@ if __name__ == '__main__':
     trainer.test(dataloaders=test_loader) # 테스트용으로 훈련된 모델을 평가
 ```
 
-최종적으로 테스트셋 평가, 분류 결과를 분석.
+**최종적으로 테스트셋 평가, 분류 결과를 분석.**
 
 
 ```python
