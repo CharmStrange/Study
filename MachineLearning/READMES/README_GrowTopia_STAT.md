@@ -2,7 +2,6 @@
 ## 게임 내 아이템 거래 시장에 대한 통계적 분석이 필요하여 직접 데이터를 기록하고 적합한 선형 회귀 모델을 만들어 앞으로의 활동을 전략적으로 해 나가려는 목적(Profit Maximization). 
 ---
 - 작성한 ipynb 파일(1차) :  [ipynb file](https://github.com/CharmStrange/Study/blob/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/MachineLearning/ipynb/GrowTopia_stat(V2).ipynb)
-- 작성한 py 파일(1차) : [py file](https://github.com/CharmStrange/Snippet/blob/main/Python/growtopia_stat(V2).py)
 ---
 ### 1. 분석에 필요한 데이터의 정의, 수집
 먼저 아이템 거래에 대해 분석을 하려면 '***재고 보충량***', '***팔린 물품 수***', '***광고 게재 수***', '***방문자 수***' 정보가 필요하다. 여기서 모든 수치는 하루 기준이며 하루가 지나면 새로 기록을 해 주어야 한다. 
