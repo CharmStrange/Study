@@ -1,4 +1,4 @@
-# 직접 하는 회귀 분석
+# 직접 하는 회귀 분석(개인 공부용, 프로젝트 연습)
 ## 게임 내 아이템 거래 시장에 대한 통계적 분석이 필요하여 직접 데이터를 기록하고 적합한 선형 회귀 모델을 만들어 앞으로의 활동을 전략적으로 해 나가려는 목적(Profit Maximization). 
 ---
 - 작성한 ipynb 파일(1차) :  [ipynb file](https://github.com/CharmStrange/Study/blob/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/MachineLearning/ipynb/GrowTopia_stat(V2).ipynb)
