@@ -1,7 +1,7 @@
 # Study
 학습한 것들을 기록합니다.
 
-### [**인공지능 & 데이터 관련**](https://github.com/CharmStrange/Study/tree/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
+### [**데이터 관련 & 인공지능**](https://github.com/CharmStrange/Study/tree/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 - Machine Learning
 - Data & DataBase
 - Mathematics & Algorithms
