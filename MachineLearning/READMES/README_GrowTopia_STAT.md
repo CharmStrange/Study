@@ -63,7 +63,7 @@ plt.show()
 <img width="414" alt="image" src="https://github.com/CharmStrange/Snippet/assets/105769152/da53e99c-f294-4f33-868b-93160dc52950">
 <img width="434" alt="image" src="https://github.com/CharmStrange/Snippet/assets/105769152/98bb7f59-a9dd-47ed-a57a-a0d80b38a2de">
 
-데이터 분포의 선형성을 확인하기 위해 시각화를 해 보았다. 데이터가 10개임에도 불구하고 뚜렷하게 선형성이 나타는 것으로 보아 회귀 분석이 적합할 것으로 예상된다.
+데이터 분포의 선형성을 확인하기 위해 시각화를 해 보았다. 데이터가 10개임에도 불구하고 선형성이 나타는 것으로 보아 회귀 분석이 적합할 것으로 예상된다.
 
 ---
 ### 3. 분석 시작
