@@ -15,4 +15,4 @@
 > **기본**, **중심**, **행위** Entity
 ---
 > **ERD**는 *Entity Relation Diagram* 의 약자, 개체 관계 다이어그램으로 해석되며 데이터베이스의 개체 관계를 구조적으로 표현하기 위해 제작하는 다이어그램.
-> ![image](https://github.com/CharmStrange/Study/assets/105769152/b6d7c64e-d5ad-42be-bfa3-4fdb74d5a916)
+> ![image](https://github.com/CharmStrange/Study/assets/105769152/b6d7c64e-d5ad-42be-bfa3-4fdb74d5a916) (Wikipedia)
