@@ -19,7 +19,7 @@
 <!--
 ### [**서비스 & 서버**](https://github.com/CharmStrange/Study/tree/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%84%9C%EB%B2%84)
 
-#### [ [Commit History]() ]
+#### [ [Commit History](https://github.com/CharmStrange/Study/pull/15/commits) ]
 
 - Back-End
 - ...
