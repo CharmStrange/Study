@@ -1,1 +1,11 @@
+# What is Airflow?
 
+### <img src="https://img.shields.io/badge/Airbnb-FF5A5F?style=flat&logo=airbnb&logoColor=white" /> 에서 제작한 **WMS**(Worflow Management System) 오픈 소스 패키지로, Python 코드로 복잡한 워크플로우 구축이 가능하다. 
+### AirFlow 구성 요소
+#### - Metadata DB : 작업 및 워크플로우의 상태를 저장.
+#### - Scheduler : Metadata DB의 작업 상태와 DAG 정의, 실행되어야 할 작업을 결정.
+#### - Executor : 작업을 실행할 작업자를 결정.
+
+---
+
+## [AirFlow code]()
