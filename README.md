@@ -1,6 +1,8 @@
-# Study
-학습한 것들을 기록합니다.
+# Study 
+학습한 것들을 기록합니다. 
 
+#### < [Activity](https://github.com/CharmStrange/Study/activity) >
+---
 ### [**컴퓨터 과학**](https://github.com/CharmStrange/Study/tree/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99)
 
 #### [ [Commit history](https://github.com/CharmStrange/Study/commits/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99) ]
