@@ -15,3 +15,7 @@
 ### ETL : 데이터를 얻어 알맞은 형태로 변환한 후 데이터 웨어하우스에 담기
 
 ### ELT : 데이터를 얻어 데이터 레이크에 담은 후, 필요하면 데이터의 변환 작업을 수행
+
+---
+
+[데이터 파이프라인 구축 연습](https://github.com/CharmStrange/Project/tree/main/Python/DataFlows)
