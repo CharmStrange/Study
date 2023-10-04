@@ -4,7 +4,7 @@
 ### AirFlow 구성 요소
 #### - Metadata DB : 작업 및 워크플로우의 상태를 저장한다.
 #### - Scheduler : Metadata DB의 작업 상태와 DAG를 정의하며, 실행되어야 할 작업을 결정한다.
-#### - Executor : 작업을 실행할 작업자를 결정한다.
+#### - Executor : 작업을 실행할 작업자(Worker)를 결정한다.
 
 ---
 
