@@ -7,5 +7,5 @@
 #### - Executor : 작업을 실행할 작업자(Worker)를 결정한다.
 
 ---
-
-## [AirFlow code](https://github.com/CharmStrange/CoLab_data/blob/main/ipynbs/D.E./AirFlow.ipynb)
+## Airflow codes
+## [AirFlow codes](https://github.com/CharmStrange/CoLab_data/blob/main/ipynbs/D.E./AirFlow.ipynb)
