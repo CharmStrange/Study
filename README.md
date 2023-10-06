@@ -1,7 +1,7 @@
 # Study 
 학습한 것들을 기록합니다. 
 
-#### < [Activity](https://github.com/CharmStrange/Study/activity) >
+#### < [Activity](https://github.com/CharmStrange/Study/activity) > : `main` Branch만 commit contribution에 포함되기 때문에 다른 여러 Branch의 commit history를 볼 수 있게 해 두었습니다. 
 ---
 ### [**컴퓨터 과학**](https://github.com/CharmStrange/Study/tree/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99)
 
