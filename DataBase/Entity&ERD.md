@@ -1,5 +1,5 @@
 # Entity & ERD
-> 데이터베이스 내에서 개체를 **Entity**(**엔티티**)라 부른다
+> 데이터베이스 내에서 개체를 **Entity**(**엔티티**)라 부른다.
 > : **데이터베이스 전체적 관점에서 봤을 때, 작업에 필요한 정보 또는 대상** 
 > > *테이블, 인덱스, 뷰, 트리거, 함수, 커서 등이 **Entity***
 > > 
@@ -14,5 +14,5 @@
 > ### 발생에 따른 Entity
 > **기본**, **중심**, **행위** Entity
 ---
-> **ERD**는 *Entity Relation Diagram* 의 약자, 개체 관계 다이어그램으로 해석되며 데이터베이스의 개체 관계를 구조적으로 표현하기 위해 제작하는 다이어그램.
+> **ERD**는 *Entity Relation Diagram* 의 약자, 개체 관계 다이어그램으로 해석되며 데이터베이스의 개체 관계를 구조적으로 표현하기 위해 제작하는 다이어그램이다.
 > ![image](https://github.com/CharmStrange/Study/assets/105769152/b6d7c64e-d5ad-42be-bfa3-4fdb74d5a916) (Wikipedia)
