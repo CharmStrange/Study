@@ -9,3 +9,4 @@
 ---
 
 ## Luigi codes
+- [Worflow 이해](https://github.com/CharmStrange/CoLab_data/blob/main/ipynbs/D.E./Luigi.ipynb)
