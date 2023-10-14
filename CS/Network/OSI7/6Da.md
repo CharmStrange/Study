@@ -4,4 +4,4 @@
 데이터 링크 계층에선 프레임 단위로 데이터가 전송되며 MAC 주소를 관리 
 
 - < [Frame](6Da-Frame.md) >
-_ < [MAC & LLC](6Da-MAC&26LLC.md) >
+- < [MAC & LLC](6Da-MAC&26LLC.md) >
