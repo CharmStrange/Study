@@ -15,4 +15,4 @@
 
 [기타 블로그](https://blog.naver.com/zetmond/223124279960)
 
-[C 자료구조 기초 기초 기초](https://github.com/CharmStrange/Study/issues/5)
+[C 자료구조 기초](https://github.com/CharmStrange/Study/issues/5)
