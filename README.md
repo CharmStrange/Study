@@ -7,7 +7,6 @@
 
 #### [ [Commit history](https://github.com/CharmStrange/Study/commits/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99) ]
 
-- CS
 - Data Structure
 - Algorithms
 - Network
@@ -15,7 +14,7 @@
 
 #### [ [Commit History](https://github.com/CharmStrange/Study/commits/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5) ]
 
-- Machine Learning
+- Data & DataBase
 - Data & DataBase
 - Mathematics & Algorithms
 <!--
