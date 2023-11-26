@@ -6,7 +6,7 @@
 ### General Header
 - Request URL
 - Request Method
-- [Status Code]()
+- [Status Code](https://github.com/CharmStrange/Study/blob/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%84%9C%EB%B2%84/%EA%B8%B0%EC%B4%88/Headers/General%20Headers/StatusCode.md)
 - Remote Address
 - Referrer Policy
 
