@@ -36,7 +36,6 @@
 - Python
 - R
 - - -
-*Branch 변경으로 열람 가능합니다.*
 
 ### [정리한 문서들 보기](https://github.com/CharmStrange/Study/issues)
 ### [✒️ Study with Obsidian](https://github.com/CharmStrange/Obsidian)
