@@ -6,7 +6,7 @@
 ### General Header
 - Request URL
 - Request Method
-- Status Code
+- [Status Code]()
 - Remote Address
 - Referrer Policy
 
