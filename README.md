@@ -46,7 +46,7 @@
 
 ### [At RoKA]
 
-May contain unsignificant ppapers.
+May contain unsignificant papers.
 
 - [1](https://m.blog.naver.com/zetmond/223740671589)
 
