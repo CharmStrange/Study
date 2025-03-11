@@ -1,3 +1,73 @@
 https://m.blog.naver.com/zetmond/223780483110
 
 []()
+
+~ $ tree
+.
+├── Playground
+│   ├── Interested
+│   │   ├── README.md
+│   │   ├── fuzzy_ex.lua
+│   │   ├── kalman_2014v.lua
+│   │   └── kalman_2024v.lua
+│   ├── JYJHJDC
+│   │   └── presentation1.md
+│   ├── OldSourceCodes
+│   │   ├── OriginalStarTraders.py
+│   │   └── StarTraders.py
+│   ├── PPTs
+│   │   ├── Presentation(1).pdf
+│   │   ├── Presentation(2).pdf
+│   │   ├── Presentation(3).pdf
+│   │   ├── Presentation(5).pdf
+│   │   └── Presentation(6).pdf
+│   ├── README.md
+│   ├── pics
+│   │   └── tmp.md
+│   ├── presentatation1.md
+│   ├── presentation2.md
+│   ├── presentation3.md
+│   ├── presentation4.md
+│   ├── presentation5.md
+│   ├── presentation6.md
+│   └── tmp.md
+├── dcslinux.AppImage
+├── dcss.py
+│   ├── LICENSE
+│   ├── README.md
+│   ├── dcss
+│   │   ├── __init__.py
+│   │   ├── abilities.py
+│   │   ├── client.py
+│   │   ├── connection.py
+│   │   ├── inventory.py
+│   │   ├── map.py
+│   │   ├── player.py
+│   │   ├── screens.py
+│   │   ├── spells.py
+│   │   └── terminal_buffer.py
+│   ├── docs
+│   │   ├── README.md
+│   │   └── _config.yml
+│   ├── requirements.txt
+│   └── setup.py
+├── downloads
+│   └── dcsslinux.AppImage
+├── prjt
+│   └── file.py
+├── py
+│   └── osp.py
+└── storage
+    ├── audiobooks -> /storage/emulated/0/Audiobooks
+    ├── dcim -> /storage/emulated/0/DCIM
+    ├── documents -> /storage/emulated/0/Documents
+    ├── downloads -> /storage/emulated/0/Download
+    ├── external-0 -> /storage/emulated/0/Android/data/com.termux/files
+    ├── media-0 -> /storage/emulated/0/Android/media/com.termux
+    ├── movies -> /storage/emulated/0/Movies
+    ├── music -> /storage/emulated/0/Music
+    ├── pictures -> /storage/emulated/0/Pictures
+    ├── podcasts -> /storage/emulated/0/Podcasts
+    └── shared -> /storage/emulated/0
+
+25 directories, 41 files
