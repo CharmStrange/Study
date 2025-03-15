@@ -1,9 +1,14 @@
+:Project in RoKA
+
 ~/prjt $ tree
 .
 ├── Tmp
 ├── attachments
+│   └── README.md
 ├── file.py
 ├── raw_data
 └── rscs
+    ├── clas.py
+    └── ref.txt
 
-5 directories, 1 file
+5 directories, 4 files
