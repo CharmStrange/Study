@@ -73,7 +73,3 @@ May contain unsignificant papers.
 - [12](https://m.blog.naver.com/zetmond/223781811675)
 
 - [13](https://m.blog.naver.com/zetmond/223784829169)
-
--[]()
-
--[]()
