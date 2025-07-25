@@ -36,6 +36,7 @@
 - SQLs
 - Python
 - R
+- Javascript
 - - -
 
 ### [정리한 문서들 보기](https://github.com/CharmStrange/Study/issues)
@@ -44,36 +45,7 @@
 ### [Study with Obsidian](https://github.com/CharmStrange/Obsidian)
 -->
 
-<!--
-
 ### [At RoKA]
 
 May contain unsignificant papers.
-
-- [1](https://m.blog.naver.com/zetmond/223740671589)
-
-- [2](https://m.blog.naver.com/zetmond/223742141700)
-
-- [3](https://m.blog.naver.com/zetmond/223744103227)
-
-- [4](https://m.blog.naver.com/zetmond/223745157203)
-
-- [5](https://m.blog.naver.com/zetmond/223752649676)
-
-- [6](https://m.blog.naver.com/zetmond/223753798986)
-
-- [7](https://m.blog.naver.com/zetmond/223761551024)
-
-- [8](https://m.blog.naver.com/zetmond/223769611053)
-
-- [9](https://m.blog.naver.com/zetmond/223770534427)
-
-- [10](https://m.blog.naver.com/zetmond/223779772940)
-
-- [11](https://m.blog.naver.com/zetmond/223780483110)
-
-- [12](https://m.blog.naver.com/zetmond/223781811675)
-
-- [13](https://m.blog.naver.com/zetmond/223784829169)
-
--->
+250113 ~ 260712
